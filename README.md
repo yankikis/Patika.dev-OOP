@@ -1,2 +1,2 @@
 # Patika.dev-OOP
-Object Oriented Programming Homeworks
+Object Oriented Programming Course Homeworks
